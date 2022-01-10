@@ -1,0 +1,54 @@
+.container{
+    text-align: center;
+
+}
+
+.cal{
+    display: inline-block;
+    border: 5px solid red;
+    border-radius:20px;
+    padding: 10px;
+    background-color: rgb(48, 47, 47);
+}
+
+#name{
+    font-size: 30px;
+    color: red;
+}
+
+table{
+    margin: auto;
+    margin-top: 7px;
+}
+
+#outputdisplay{
+    background-color: rgb(231, 238, 167);
+    font-size: 25px;
+    height: 55px;
+    border: 1px solid red;
+    border-radius: 10px;
+    color: black;
+    text-align: right;
+}
+
+
+tr{
+    margin: 5px;
+    padding: 5px;
+}
+
+button{
+    cursor: pointer;
+    height: 60px;
+    width: 77px;
+    font-size: 25px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: rgb(55, 65, 65);
+    color: white;
+}
+
+button:hover{
+    background-color: rgb(77, 0, 0);
+    border: 5px solid red;     
+}
