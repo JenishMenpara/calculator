@@ -16,7 +16,7 @@
     color: red;
 }
 
-table{
+.table{
     margin: auto;
     margin-top: 7px;
 }
@@ -32,12 +32,9 @@ table{
 }
 
 
-tr{
-    margin: 5px;
-    padding: 5px;
-}
 
-button{
+
+.btnn{
     cursor: pointer;
     height: 60px;
     width: 77px;
@@ -48,7 +45,7 @@ button{
     color: white;
 }
 
-button:hover{
+.btnn:hover{
     background-color: rgb(77, 0, 0);
     border: 5px solid red;     
 }
